@@ -1,0 +1,2451 @@
+{
+    "created_at": "Fri Apr 26 10:44:59 +0000 2019",
+    "id": 1121726863515299840,
+    "id_str": "1121726863515299840",
+    "text": "Mucho \u00e9xito en el Hack for Good! https://t.co/6poC8LqAvq",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/6poC8LqAvq",
+                "expanded_url": "https://twitter.com/bloomod/status/1070280821012135938",
+                "display_url": "twitter.com/bloomod/status\u2026",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter WebClient</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15037438,
+        "id_str": "15037438",
+        "name": "Jaime Izquierdo",
+        "screen_name": "jaime_izquierdo",
+        "location": "Madrid, Espa\u00f1a",
+        "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+        "url": "http: //t.co/yhoOyNaN4f",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/yhoOyNaN4f",
+                        "expanded_url": "http://about.me/JaimeIzquierdo",
+                        "display_url": "about.me/JaimeIzquierdo",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4103,
+        "friends_count": 3231,
+        "listed_count": 370,
+        "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+        "favourites_count": 598,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13683,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1070280821012135938,
+    "quoted_status_id_str": "1070280821012135938",
+    "quoted_status": {
+        "created_at": "Wed Dec 05 11:36:47 +0000 2018",
+        "id": 1070280821012135938,
+        "id_str": "1070280821012135938",
+        "text": "La semana pasada @actuaupm nos concedi\u00f3 uno de los premios a las mejores start-ups UPM y el reconocimiento del pote\u2026 https://t.co/dSMewbarQv",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "actuaupm",
+                    "name": "act\u00faaupm",
+                    "id": 80818661,
+                    "id_str": "80818661",
+                    "indices": [
+                        17,
+                        26
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/dSMewbarQv",
+                    "expanded_url": "https://twitter.com/i/web/status/1070280821012135938",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1045009036284956672,
+            "id_str": "1045009036284956672",
+            "name": "Bloomod",
+            "screen_name": "bloomod",
+            "location": "Madrid, Spain",
+            "description": "Start-up nacida con el objetivo de generar entornos m\u00e1s saludables en espacios urbanos.",
+            "url": "https://t.co/ogXjiEwKJH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ogXjiEwKJH",
+                            "expanded_url": "https://www.bloomod.com/",
+                            "display_url": "bloomod.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 27,
+            "friends_count": 56,
+            "listed_count": 0,
+            "created_at": "Wed Sep 26 17:55:44 +0000 2018",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1045176984882556928/3ILNs5s0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045176984882556928/3ILNs5s0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045009036284956672/1538920806",
+            "profile_link_color": "008987",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}
+{
+    "created_at": "Fri Apr 26 06:56:40 +0000 2019",
+    "id": 1121669405153251329,
+    "id_str": "1121669405153251329",
+    "text": "RT @TennisTV: Any chance you could delay your retirement, @DavidFerrer87?\n\nWe're going to miss points like this \ud83d\ude25\n\n#bcnopenbs https://t.co/\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "bcnopenbs",
+                "indices": [
+                    115,
+                    125
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TennisTV",
+                "name": "Tennis TV",
+                "id": 19977028,
+                "id_str": "19977028",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "DavidFerrer87",
+                "name": "David Ferrer",
+                "id": 485511296,
+                "id_str": "485511296",
+                "indices": [
+                    58,
+                    72
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15037438,
+        "id_str": "15037438",
+        "name": "Jaime Izquierdo",
+        "screen_name": "jaime_izquierdo",
+        "location": "Madrid, Espa\u00f1a",
+        "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+        "url": "http://t.co/yhoOyNaN4f",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/yhoOyNaN4f",
+                        "expanded_url": "http://about.me/JaimeIzquierdo",
+                        "display_url": "about.me/JaimeIzquierdo",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4103,
+        "friends_count": 3231,
+        "listed_count": 370,
+        "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+        "favourites_count": 598,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13683,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 25 14:59:52 +0000 2019",
+        "id": 1121428616947077125,
+        "id_str": "1121428616947077125",
+        "text": "Any chance you could delay your retirement, @DavidFerrer87?\n\nWe're going to miss points like this \ud83d\ude25\n\n#bcnopenbs https://t.co/OZekqRR1Gt",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "bcnopenbs",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DavidFerrer87",
+                    "name": "David Ferrer",
+                    "id": 485511296,
+                    "id_str": "485511296",
+                    "indices": [
+                        44,
+                        58
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1121428480909086722,
+                    "id_str": "1121428480909086722",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5AdQkdWwAA4LT_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5AdQkdWwAA4LT_.jpg",
+                    "url": "https://t.co/OZekqRR1Gt",
+                    "display_url": "pic.twitter.com/OZekqRR1Gt",
+                    "expanded_url": "https://twitter.com/TennisTV/status/1121428616947077125/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1121428480909086722,
+                    "id_str": "1121428480909086722",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5AdQkdWwAA4LT_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5AdQkdWwAA4LT_.jpg",
+                    "url": "https://t.co/OZekqRR1Gt",
+                    "display_url": "pic.twitter.com/OZekqRR1Gt",
+                    "expanded_url": "https://twitter.com/TennisTV/status/1121428616947077125/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 61240,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1121428480909086722/vid/640x360/Dx3tOW1TWI4qAvd0.mp4?tag=11"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1121428480909086722/vid/1280x720/-iOlXf4CFCoxwsET.mp4?tag=11"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1121428480909086722/pl/65reHRsyvCqSzkbi.m3u8?tag=11"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1121428480909086722/vid/320x180/Z2THY9eSgMXGOHhu.mp4?tag=11"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "Ferrer magical get and lob",
+                        "description": "Watch ATP Tour tennis streams live & on-demand on Tennis TV.",
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19977028,
+            "id_str": "19977028",
+            "name": "Tennis TV",
+            "screen_name": "TennisTV",
+            "location": "All 64 ATP tournaments live & on demand",
+            "description": "\ud83c\udfbe Official ATP tennis streams on PC/Mac, iPhone, iPad, Android, Apple TV, Roku, Fire TV, Chromecast, Samsung Smart TV, Android TV, Xbox One & PS4 \ud83c\udfbe",
+            "url": "https://t.co/57sby6o4eU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/57sby6o4eU",
+                            "expanded_url": "http://tnn.is/App",
+                            "display_url": "tnn.is/App",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 272292,
+            "friends_count": 855,
+            "listed_count": 2867,
+            "created_at": "Tue Feb 03 15:24:35 +0000 2009",
+            "favourites_count": 3917,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 82761,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1075073476753612802/mwYjgEmU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075073476753612802/mwYjgEmU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19977028/1558340535",
+            "profile_link_color": "009BF3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCE4FF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 247,
+        "favorite_count": 1186,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 247,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}
+{
+    "created_at": "Fri Apr 19 16:44:47 +0000 2019",
+    "id": 1119280692733644800,
+    "id_str": "1119280692733644800",
+    "text": "@mbermejoivan @WeTheHumansTT @QuintGroupSpain @jirouyet Es
+normal que la legislaci\u00f3n vaya a remolque de la tecnolog\u2026 https: //t.co/nfaMPknBmy", "truncated": true, "entities": {"hashtags": [], "symbols": [], "user_mentions": [{"screen_name": "mbermejoivan", "name": "Iv\u00e1n Mart\u00edn", "id": 521295568, "id_str": "521295568", "indices": [0, 13]}, {"screen_name": "WeTheHumansTT", "name": "WeTheHumans", "id": 1057217286392762369, "id_str": "1057217286392762369", "indices": [14, 28]}, {"screen_name": "QuintGroupSpain", "name": "QuintGroupSpain", "id": 515426851, "id_str": "515426851", "indices": [29, 45]}, {"screen_name": "jirouyet", "name": "Juan Ignacio Rouyet", "id": 237377350, "id_str": "237377350", "indices": [46, 55]}], "urls": [{"url": "https://t.co/nfaMPknBmy", "expanded_url": "https://twitter.com/i/web/status/1119280692733644800", "display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140]}]}, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", "in_reply_to_status_id": 1118097979154599936, "in_reply_to_status_id_str": "1118097979154599936", "in_reply_to_user_id": 521295568, "in_reply_to_user_id_str": "521295568", "in_reply_to_screen_name": "mbermejoivan", "user": {"id": 15037438, "id_str": "15037438", "name": "Jaime Izquierdo", "screen_name": "jaime_izquierdo", "location": "Madrid, Espa\u00f1a", "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.", "url": "http://t.co/yhoOyNaN4f", "entities": {"url": {"urls": [{"url": "http://t.co/yhoOyNaN4f", "expanded_url": "http://about.me/JaimeIzquierdo", "display_url": "about.me/JaimeIzquierdo", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 4103, "friends_count": 3231, "listed_count": 370, "created_at": "Sat Jun 07 11:01:12 +0000 2008", "favourites_count": 598, "utc_offset": null, "time_zone": null, "geo_enabled": false, "verified": false, "statuses_count": 13683, "lang": null, "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": true, "default_profile_image": false, "following": false, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 1, "favorite_count": 0, "favorited": false, "retweeted": false, "lang": "es"
+}
+{
+    "created_at": "Fri Apr 05 09:59:41 +0000 2019",
+    "id": 1114105316558422017,
+    "id_str": "1114105316558422017",
+    "text": "@FerValmaseda @Turismo_Sitges @turmarruecosnet @TurismoMenorca Enhorabuena!!!",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FerValmaseda",
+                "name": "Fernando Valmaseda",
+                "id": 389556614,
+                "id_str": "389556614",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Turismo_Sitges",
+                "name": "turismositges",
+                "id": 950482283005468679,
+                "id_str": "950482283005468679",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "turmarruecosnet",
+                "name": "Turismo Marruecos",
+                "id": 496280746,
+                "id_str": "496280746",
+                "indices": [
+                    30,
+                    46
+                ]
+            },
+            {
+                "screen_name": "TurismoMenorca",
+                "name": "Turismo de Menorca",
+                "id": 65624689,
+                "id_str": "65624689",
+                "indices": [
+                    47,
+                    62
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web
+App</a>", "in_reply_to_status_id": 1114103538039382018, "in_reply_to_status_id_str": "1114103538039382018", "in_reply_to_user_id": 389556614, "in_reply_to_user_id_str": "389556614", "in_reply_to_screen_name": "FerValmaseda", "user": {"id": 15037438, "id_str": "15037438", "name": "Jaime Izquierdo", "screen_name": "jaime_izquierdo", "location": "Madrid,
+Espa\u00f1a", "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.", "url": "http: //t.co/yhoOyNaN4f", "entities": {"url": {"urls": [{"url": "http://t.co/yhoOyNaN4f", "expanded_url": "http://about.me/JaimeIzquierdo", "display_url": "about.me/JaimeIzquierdo", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 4103, "friends_count": 3231, "listed_count": 370, "created_at": "Sat Jun 07 11:01:12 +0000 2008", "favourites_count": 598, "utc_offset": null, "time_zone": null, "geo_enabled": false, "verified": false, "statuses_count": 13683, "lang": null, "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": true, "default_profile_image": false, "following": false, "follow_request_sent": false, "notifications": false, "translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"is_quote_status": false,
+"retweet_count": 1,
+"favorite_count": 0,
+"favorited": false,
+"retweeted": false,
+"lang": "es"
+}
+{
+"created_at": "Fri Mar 08 11:21:04 +0000 2019",
+"id": 1103978936483094531,
+"id_str": "1103978936483094531",
+"text": "En general prefiero hablar con personas que teclear opciones autom\u00e1ticas, pero algunos teleoperadores empujan muy o\u2026 https://t.co/ozfysCL92R",
+"truncated": true,
+"entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+        {
+            "url": "https://t.co/ozfysCL92R",
+            "expanded_url": "https://twitter.com/i/web/status/1103978936483094531",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+                117,
+                140
+            ]
+        }
+    ]
+},
+"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+"in_reply_to_status_id": null,
+"in_reply_to_status_id_str": null,
+"in_reply_to_user_id": null,
+"in_reply_to_user_id_str": null,
+"in_reply_to_screen_name": null,
+"user": {
+    "id": 15037438,
+    "id_str": "15037438",
+    "name": "Jaime Izquierdo",
+    "screen_name": "jaime_izquierdo",
+    "location": "Madrid, Espa\u00f1a",
+    "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+    "url": "http://t.co/yhoOyNaN4f",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/yhoOyNaN4f",
+                    "expanded_url": "http://about.me/JaimeIzquierdo",
+                    "display_url": "about.me/JaimeIzquierdo",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 4103,
+    "friends_count": 3231,
+    "listed_count": 370,
+    "created_at": "Sat Jun 07
+11: 01: 12 +0000 2008", "favourites_count": 598, "utc_offset": null, "time_zone": null, "geo_enabled": false, "verified": false, "statuses_count": 13683, "lang": null, "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": true, "default_profile_image": false, "following": false, "follow_request_sent": false, "notifications": false, "translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"is_quote_status": false,
+"retweet_count": 1,
+"favorite_count": 1,
+"favorited": false,
+"retweeted": false,
+"lang": "es"
+}
+{
+"created_at": "Wed Feb 06 16:09:16 +0000 2019",
+"id": 1093179830764490752,
+"id_str": "1093179830764490752",
+"text": "@CristinaSegui_ Recomiendo a Albert Boadella.",
+"truncated": false,
+"entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+        {
+            "screen_name": "CristinaSegui_",
+            "name": "Cristina Segu\u00ed",
+            "id": 87659574,
+            "id_str": "87659574",
+            "indices": [
+                0,
+                15
+            ]
+        }
+    ],
+    "urls": []
+},
+"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+"in_reply_to_status_id": 1093118459481853952,
+"in_reply_to_status_id_str": "1093118459481853952",
+"in_reply_to_user_id": 87659574,
+"in_reply_to_user_id_str": "87659574",
+"in_reply_to_screen_name": "CristinaSegui_",
+"user": {
+    "id": 15037438,
+    "id_str": "15037438",
+    "name": "Jaime Izquierdo",
+    "screen_name": "jaime_izquierdo",
+    "location": "Madrid, Espa\u00f1a",
+    "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+    "url": "http://t.co/yhoOyNaN4f",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/yhoOyNaN4f",
+                    "expanded_url": "http://about.me/JaimeIzquierdo",
+                    "display_url": "about.me/JaimeIzquierdo",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 4103,
+    "friends_count": 3231,
+    "listed_count": 370,
+    "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+    "favourites_count": 598,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"is_quote_status": false,
+"retweet_count": 0,
+"favorite_count": 1,
+"favorited": false,
+"retweeted": false,
+"lang": "it"
+}
+{
+"created_at": "Sat Dec 29 12:03:57 +0000 2018",
+"id": 1078984969396121602,
+"id_str": "1078984969396121602",
+"text": "RT @JorgeBustos1: A su sabidur\u00eda sin fondo une Juaristi la valent\u00eda y el humor. Esta entrevista lo prueba de nuevo. Maravillosa: https://t.\u2026",
+"truncated": false,
+"entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+        {
+            "screen_name": "JorgeBustos1",
+            "name": "Jorge Bustos",
+            "id": 292464252,
+            "id_str": "292464252",
+            "indices": [
+                3,
+                16
+            ]
+        }
+    ],
+    "urls": []
+},
+"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+"in_reply_to_status_id": null,
+"in_reply_to_status_id_str": null,
+"in_reply_to_user_id": null,
+"in_reply_to_user_id_str": null,
+"in_reply_to_screen_name": null,
+"user": {
+    "id": 15037438,
+    "id_str": "15037438",
+    "name": "Jaime Izquierdo",
+    "screen_name": "jaime_izquierdo",
+    "location": "Madrid, Espa\u00f1a",
+    "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+    "url": "http://t.co/yhoOyNaN4f",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/yhoOyNaN4f",
+                    "expanded_url": "http://about.me/JaimeIzquierdo",
+                    "display_url": "about.me/JaimeIzquierdo",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 4103,
+    "friends_count": 3231,
+    "listed_count": 370,
+    "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+    "favourites_count": 598,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"retweeted_status": {
+    "created_at": "Sat Dec 29 09:24:52 +0000 2018",
+    "id": 1078944932021325828,
+    "id_str": "1078944932021325828",
+    "text": "A su sabidur\u00eda sin fondo une Juaristi la valent\u00eda y el humor. Esta entrevista lo prueba de nuevo. Maravillosa: https://t.co/yDWIFdDVFC",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/yDWIFdDVFC",
+                "expanded_url": "https://www.elmundo.es/opinion/2018/12/29/5c267f9521efa0b9538b46f3.html",
+                "display_url": "elmundo.es/opinion/2018/1\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\"
+rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 292464252,
+        "id_str": "292464252",
+        "name": "Jorge Bustos",
+        "screen_name": "JorgeBustos1",
+        "location": "",
+        "description": "Jefe de Opini\u00f3n de EL MUNDO. Colaborador en COPE, Telecinco, La Sexta. Consejero de la Fund\u00e9u. Cr\u00edtica literaria. Real Madrid.",
+        "url": "https://t.co/5vruziYtEg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5vruziYtEg",
+                        "expanded_url": "http://www.jorgebustos.es",
+                        "display_url": "jorgebustos.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 76650,
+        "friends_count": 948,
+        "listed_count": 888,
+        "created_at": "Tue May 03 17:54:26 +0000 2011",
+        "favourites_count": 17785,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 49615,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888687136647598080/PESmcst4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888687136647598080/PESmcst4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292464252/1502211209",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 339,
+    "favorite_count": 575,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+},
+"is_quote_status": false,
+"retweet_count": 339,
+"favorite_count": 0,
+"favorited": false,
+"retweeted": false,
+"lang": "es"
+}
+{
+"created_at": "Fri Dec 21 12:11:27 +0000 2018",
+"id": 1076087753157369858,
+"id_str": "1076087753157369858",
+"text": "Llegar\u00e1n tiempos mejores, no lo dud\u00e9is.\nAbrazos! https://t.co/tVW7ZZ4Zao",
+"truncated": false,
+"entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+        {
+            "url": "https://t.co/tVW7ZZ4Zao",
+            "expanded_url": "https://lnkd.in/eFMg79E",
+            "display_url": "lnkd.in/eFMg79E",
+            "indices": [
+                49,
+                72
+            ]
+        }
+    ]
+},
+"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+"in_reply_to_status_id": null,
+"in_reply_to_status_id_str": null,
+"in_reply_to_user_id": null,
+"in_reply_to_user_id_str": null,
+"in_reply_to_screen_name": null,
+"user": {
+    "id": 15037438,
+    "id_str": "15037438",
+    "name": "Jaime Izquierdo",
+    "screen_name": "jaime_izquierdo",
+    "location": "Madrid, Espa\u00f1a",
+    "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+    "url": "http://t.co/yhoOyNaN4f",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/yhoOyNaN4f",
+                    "expanded_url": "http://about.me/JaimeIzquierdo",
+                    "display_url": "about.me/JaimeIzquierdo",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 4103,
+    "friends_count": 3231,
+    "listed_count": 370,
+    "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+    "favourites_count": 598,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13683,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"is_quote_status": false,
+"retweet_count": 0,
+"favorite_count": 2,
+"favorited": false,
+"retweeted": false,
+"possibly_sensitive": false,
+"lang": "es"
+}
+{
+"created_at": "Mon Dec 17 17:44:06 +0000 2018",
+"id": 1074721913140862978,
+"id_str": "1074721913140862978",
+"text": "@ldpsincomplejos Y en eso han ca\u00eddo tanto el PP como el Partido Socialista *Otrora* Espa\u00f1ol.",
+"truncated": false,
+"entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+        {
+            "screen_name": "ldpsincomplejos",
+            "name": "Luis
+del Pino", "id": 241993704, "id_str": "241993704", "indices": [0, 16]}], "urls": []}, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1074596004144517126,
+            "in_reply_to_status_id_str": "1074596004144517126",
+            "in_reply_to_user_id": 241993704,
+            "in_reply_to_user_id_str": "241993704",
+            "in_reply_to_screen_name": "ldpsincomplejos",
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+{
+            "created_at": "Mon Dec 17 17:42:53 +0000 2018",
+            "id": 1074721606977634304,
+            "id_str": "1074721606977634304",
+            "text": "@ldpsincomplejos Muy buena explicaci\u00f3n D. Luis. A\u00f1adir\u00eda que la Ley Electoral ayuda a que las minor\u00edas se fortalezc\u2026 https://t.co/Gq5l9y0SZO",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ldpsincomplejos",
+                        "name": "Luis del Pino",
+                        "id": 241993704,
+                        "id_str": "241993704",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Gq5l9y0SZO",
+                        "expanded_url": "https://twitter.com/i/web/status/1074721606977634304",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1074596004144517126,
+            "in_reply_to_status_id_str": "1074596004144517126",
+            "in_reply_to_user_id": 241993704,
+            "in_reply_to_user_id_str": "241993704",
+            "in_reply_to_screen_name": "ldpsincomplejos",
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+{
+            "created_at": "Mon Nov 05 19:25:55 +0000 2018",
+            "id": 1059527248947109888,
+            "id_str": "1059527248947109888",
+            "text": "@cendrepledeltot Seguramente. Y eso, descontando lo de toser sin poner la mano... ba\u00f1aditos en miasmas salimos de aqu\u00ed.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "cendrepledeltot",
+                        "name": "Milounier \ud83c\uddea\ud83c\uddfa",
+                        "id": 907873080441262080,
+                        "id_str": "907873080441262080",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1059525984771293184,
+            "in_reply_to_status_id_str": "1059525984771293184",
+            "in_reply_to_user_id": 907873080441262080,
+            "in_reply_to_user_id_str": "907873080441262080",
+            "in_reply_to_screen_name": "cendrepledeltot",
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+{
+            "created_at": "Mon Nov 05 19:07:50 +0000 2018",
+            "id": 1059522695296176128,
+            "id_str": "1059522695296176128",
+            "text": "Es triste comprobar cu\u00e1nto merece la pena comprar la opci\u00f3n de \"coche en silencio\" en el AVE. Hay gente *profundamente maleducada*.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+{
+            "created_at": "Sat Oct 27 10:27:48 +0000 2018",
+            "id": 1056130333752455168,
+            "id_str": "1056130333752455168",
+            "text": "@Paco_Almanzor Por estas cosas sigue mereciendo la pena Twitter... gracias por un hilo tan did\u00e1ctico!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Paco_Almanzor",
+                        "name": "Paco Almanzor",
+                        "id": 1216575650,
+                        "id_str": "1216575650",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1055929317623033856,
+            "in_reply_to_status_id_str": "1055929317623033856",
+            "in_reply_to_user_id": 1216575650,
+            "in_reply_to_user_id_str": "1216575650",
+            "in_reply_to_screen_name": "Paco_Almanzor",
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+{
+            "created_at": "Wed Oct 10 07:08:53 +0000 2018",
+            "id": 1049919681665126400,
+            "id_str": "1049919681665126400",
+            "text": "RT @juanmanfredi: El fin de la civilizaci\u00f3n. Otra vez. https://t.co/XqLjHQP3oh",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "juanmanfredi",
+                        "name": "Juan Luis Manfredi",
+                        "id": 48015638,
+                        "id_str": "48015638",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/XqLjHQP3oh",
+                        "expanded_url": "https://twitter.com/maxibongio/status/1049748075454111744",
+                        "display_url": "twitter.com/maxibongio/sta\u2026",
+                        "indices": [
+                            55,
+                            78
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15037438,
+                "id_str": "15037438",
+                "name": "Jaime Izquierdo",
+                "screen_name": "jaime_izquierdo",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+                "url": "http://t.co/yhoOyNaN4f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/yhoOyNaN4f",
+                                "expanded_url": "http://about.me/JaimeIzquierdo",
+                                "display_url": "about.me/JaimeIzquierdo",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4103,
+                "friends_count": 3231,
+                "listed_count": 370,
+                "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+                "favourites_count": 598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13683,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 10 05:38:04 +0000 2018",
+                "id": 1049896827892453376,
+                "id_str": "1049896827892453376",
+                "text": "El fin de la civilizaci\u00f3n.
+Otra vez. https: //t.co/XqLjHQP3oh", "truncated": false, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/XqLjHQP3oh", "expanded_url": "https://twitter.com/maxibongio/status/1049748075454111744", "display_url": "twitter.com/maxibongio/sta\u2026", "indices": [37, 60]}]}, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 48015638, "id_str": "48015638", "name": "Juan Luis Manfredi", "screen_name": "juanmanfredi", "location": "Madrid", "description": "Periodismo y Relaciones Internacionales @uclm_es.  Academic Director Observatorio del Sector P\u00fablico @ESADEgov. #CityDiplomacy", "url": "https://t.co/fAmPB6he3L", "entities": {"url": {"urls": [{"url": "https://t.co/fAmPB6he3L", "expanded_url": "http://blogs.cincodias.com/escuelasdenegocio/", "display_url": "blogs.cincodias.com/escuelasdenego\u2026", "indices": [0, 23]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 6794, "friends_count": 798, "listed_count": 843, "created_at": "Wed Jun 17 16:25:45 +0000 2009", "favourites_count": 4758, "utc_offset": null, "time_zone": null, "geo_enabled": true, "verified": false, "statuses_count": 95261, "lang": null, "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "8B542B", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", "profile_background_tile": true, "profile_image_url": "http://pbs.twimg.com/profile_images/731705354/JLM_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/731705354/JLM_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/48015638/1399011723", "profile_link_color": "9D582E", "profile_sidebar_border_color": "D9B17E", "profile_sidebar_fill_color": "EADEAA", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": true, "default_profile": false, "default_profile_image": false, "following": false, "follow_request_sent": false, "notifications": false, "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1049748075454111744,
+            "quoted_status_id_str": "1049748075454111744",
+            "quoted_status": {
+                "created_at": "Tue Oct 09 19:46:59 +0000 2018",
+                "id": 1049748075454111744,
+                "id_str": "1049748075454111744",
+                "text": "Nuevas formas de enterarse \u2066@LadyAAmado\u2069 \u2066@diegoscott\u2069 https://t.co/dEdzzapWnk",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LadyAAmado",
+                            "name": "Adriana Amado",
+                            "id": 96191961,
+                            "id_str": "96191961",
+                            "indices": [
+                                28,
+                                39
+                            ]
+                        },
+                        {
+                            "screen_name": "diegoscott",
+                            "name": "diego scott",
+                            "id": 17756894,
+                            "id_str": "17756894",
+                            "indices": [
+                                42,
+                                53
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1049748073814081537,
+                            "id_str": "1049748073814081537",
+                            "indices": [
+                                55,
+                                78
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DpF0T7NWwAEE-9a.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DpF0T7NWwAEE-9a.jpg",
+                            "url": "https://t.co/dEdzzapWnk",
+                            "display_url": "pic.twitter.com/dEdzzapWnk",
+                            "expanded_url": "https://twitter.com/maxibongio/status/1049748075454111744/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1192,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1152,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 653,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1049748073814081537,
+                            "id_str": "1049748073814081537",
+                            "indices": [
+                                55,
+                                78
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DpF0T7NWwAEE-9a.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DpF0T7NWwAEE-9a.jpg",
+                            "url": "https://t.co/dEdzzapWnk",
+                            "display_url": "pic.twitter.com/dEdzzapWnk",
+                            "expanded_url": "https://twitter.com/maxibongio/status/1049748075454111744/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1192,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1152,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 653,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 7658762,
+                    "id_str": "7658762",
+                    "name": "Maxi Bongiovanni",
+                    "screen_name": "maxibongio",
+                    "location": "iPhone: -34.558361,-58.446198",
+                    "description": "Ironista. \nProf. Tecnofilo. Bibli\u00f3filo. Gerundio. A favor de la libertad. En contra de los esl\u00f3ganes de naftalina.\nColaboro https://t.co/lQwW1G9BvW",
+                    "url": "https://t.co/9tlZGCeM2X",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9tlZGCeM2X",
+                                    "expanded_url": "http://about.me/maxibongio",
+                                    "display_url": "about.me/maxibongio",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/lQwW1G9BvW",
+                                    "expanded_url": "http://infociudadana.org.ar",
+                                    "display_url": "infociudadana.org.ar",
+                                    "indices": [
+                                        124,
+                                        147
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3058,
+                    "friends_count": 2708,
+                    "listed_count": 60,
+                    "created_at": "Mon Jul 23 13:22:52 +0000 2007",
+                    "favourites_count": 6034,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 16707,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "BF1238",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1005081605709488129/PGrGb2PO_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005081605709488129/PGrGb2PO_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/7658762/1550169119",
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "EBC5C5",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 9,
+                "favorite_count": 20,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1049748075454111744,
+        "quoted_status_id_str": "1049748075454111744",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    }
+{
+        "created_at": "Tue Oct 09 16:59:18 +0000 2018",
+        "id": 1049705875668119552,
+        "id_str": "1049705875668119552",
+        "text": "@MissEvilLyn1 @perezreverte HAL 9000, de \"2001, Una Odisea en el Espacio\"",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MissEvilLyn1",
+                    "name": "Miss-Evil-Lyn",
+                    "id": 994687238733692930,
+                    "id_str": "994687238733692930",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "perezreverte",
+                    "name": "Arturo P\u00e9rez-Reverte",
+                    "id": 111933542,
+                    "id_str": "111933542",
+                    "indices": [
+                        14,
+                        27
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1049366827489546241,
+        "in_reply_to_status_id_str": "1049366827489546241",
+        "in_reply_to_user_id": 994687238733692930,
+        "in_reply_to_user_id_str": "994687238733692930",
+        "in_reply_to_screen_name": "MissEvilLyn1",
+        "user": {
+            "id": 15037438,
+            "id_str": "15037438",
+            "name": "Jaime Izquierdo",
+            "screen_name": "jaime_izquierdo",
+            "location": "Madrid, Espa\u00f1a",
+            "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+            "url": "http://t.co/yhoOyNaN4f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yhoOyNaN4f",
+                            "expanded_url": "http://about.me/JaimeIzquierdo",
+                            "display_url": "about.me/JaimeIzquierdo",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4103,
+            "friends_count": 3231,
+            "listed_count": 370,
+            "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+            "favourites_count": 598,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13683,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    }
+{
+        "created_at": "Sat Sep 22 18:16:02 +0000 2018",
+        "id": 1043564595586174976,
+        "id_str": "1043564595586174976",
+        "text": "@marta_tattillo Gracias por el elogio, Marta... la audiencia y el entorno de #canbosquet s\u00ed que son interesantes, adoro Mallorca!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "canbosquet",
+                    "indices": [
+                        77,
+                        88
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "marta_tattillo",
+                    "name": "Marta Cabrero",
+                    "id": 1668310410,
+                    "id_str": "1668310410",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1043069604401242114,
+        "in_reply_to_status_id_str": "1043069604401242114",
+        "in_reply_to_user_id": 1668310410,
+        "in_reply_to_user_id_str": "1668310410",
+        "in_reply_to_screen_name": "marta_tattillo",
+        "user": {
+            "id": 15037438,
+            "id_str": "15037438",
+            "name": "Jaime Izquierdo",
+            "screen_name": "jaime_izquierdo",
+            "location": "Madrid, Espa\u00f1a",
+            "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+            "url": "http://t.co/yhoOyNaN4f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yhoOyNaN4f",
+                            "expanded_url": "http://about.me/JaimeIzquierdo",
+                            "display_url": "about.me/JaimeIzquierdo",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4103,
+            "friends_count": 3231,
+            "listed_count": 370,
+            "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+            "favourites_count": 598,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13683,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    }
+{
+        "created_at": "Mon Sep 03 11:28:49 +0000 2018",
+        "id": 1036576744629776384,
+        "id_str": "1036576744629776384",
+        "text": "Te invito a rellenar este formulario para ayudar a Agust\u00ed en su plan de negocio. Gracias por adelantado! https://t.co/ruEgSx3v5b",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ruEgSx3v5b",
+                    "expanded_url": "https://lnkd.in/erddygZ",
+                    "display_url": "lnkd.in/erddygZ",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15037438,
+            "id_str": "15037438",
+            "name": "Jaime Izquierdo",
+            "screen_name": "jaime_izquierdo",
+            "location": "Madrid, Espa\u00f1a",
+            "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+            "url": "http://t.co/yhoOyNaN4f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yhoOyNaN4f",
+                            "expanded_url": "http://about.me/JaimeIzquierdo",
+                            "display_url": "about.me/JaimeIzquierdo",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4103,
+            "friends_count": 3231,
+            "listed_count": 370,
+            "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+            "favourites_count": 598,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13683,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    }
+{
+        "created_at": "Sun Sep 02 16:29:47 +0000 2018",
+        "id": 1036290100412534784,
+        "id_str": "1036290100412534784",
+        "text": "@Gravitonio1 @pepeblai Brillante!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Gravitonio1",
+                    "name": "Gravitonio",
+                    "id": 895262033054224385,
+                    "id_str": "895262033054224385",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "pepeblai",
+                    "name": "Voir M. Granovetter",
+                    "id": 300524002,
+                    "id_str": "300524002",
+                    "indices": [
+                        13,
+                        22
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1035816709960163328,
+        "in_reply_to_status_id_str": "1035816709960163328",
+        "in_reply_to_user_id": 895262033054224385,
+        "in_reply_to_user_id_str": "895262033054224385",
+        "in_reply_to_screen_name": "Gravitonio1",
+        "user": {
+            "id": 15037438,
+            "id_str": "15037438",
+            "name": "Jaime Izquierdo",
+            "screen_name": "jaime_izquierdo",
+            "location": "Madrid, Espa\u00f1a",
+            "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+            "url": "http://t.co/yhoOyNaN4f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yhoOyNaN4f",
+                            "expanded_url": "http://about.me/JaimeIzquierdo",
+                            "display_url": "about.me/JaimeIzquierdo",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4103,
+            "friends_count": 3231,
+            "listed_count": 370,
+            "created_at": "Sat Jun 07 11:01:12 +0000 2008",
+            "favourites_count": 598,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13683,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    }
+{
+        "created_at": "Tue Aug 07 14:22:36 +0000 2018",
+        "id": 1026836008871047170,
+        "id_str": "1026836008871047170",
+        "text": "@cendrepledeltot De todas formas es un placer encontrar en
+Twitter alguien con quien debatir en calma, incluso desd\u2026 https: //t.co/Vov23VicYh", "truncated": true, "entities": {"hashtags": [], "symbols": [], "user_mentions": [{"screen_name": "cendrepledeltot", "name": "Milounier \ud83c\uddea\ud83c\uddfa", "id": 907873080441262080, "id_str": "907873080441262080", "indices": [0, 16]}], "urls": [{"url": "https://t.co/Vov23VicYh", "expanded_url": "https://twitter.com/i/web/status/1026836008871047170", "display_url": "twitter.com/i/web/status/1\u2026", "indices": [117, 140]}]}, "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", "in_reply_to_status_id": 1026826190483595265, "in_reply_to_status_id_str": "1026826190483595265", "in_reply_to_user_id": 907873080441262080, "in_reply_to_user_id_str": "907873080441262080", "in_reply_to_screen_name": "cendrepledeltot", "user": {"id": 15037438, "id_str": "15037438", "name": "Jaime Izquierdo", "screen_name": "jaime_izquierdo", "location": "Madrid, Espa\u00f1a", "description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.", "url": "http://t.co/yhoOyNaN4f", "entities": {"url": {"urls": [{"url": "http://t.co/yhoOyNaN4f", "expanded_url": "http://about.me/JaimeIzquierdo", "display_url": "about.me/JaimeIzquierdo", "indices": [0, 22]}]}, "description": {"urls": []}}, "protected": false, "followers_count": 4103, "friends_count": 3231, "listed_count": 370, "created_at": "Sat Jun 07 11:01:12 +0000 2008", "favourites_count": 598, "utc_offset": null, "time_zone": null, "geo_enabled": false, "verified": false, "statuses_count": 13683, "lang": null, "contributors_enabled": false, "is_translator": false, "is_translation_enabled": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg", "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "has_extended_profile": false, "default_profile": true, "default_profile_image": false, "following": false, "follow_request_sent": false, "notifications": false, "translator_type": "none"}, "geo": null, "coordinates": null, "place": null, "contributors": null, "is_quote_status": false, "retweet_count": 0, "favorite_count": 1, "favorited": false, "retweeted": false, "lang": "es"} { "created_at": "Tue Aug 07 14:20:26 +0000 2018", "id": 1026835460587483137, "id_str": "1026835460587483137", "text": "@cendrepledeltot Votamos lo que somos. Ni m\u00e1s, ni menos. En Espa\u00f1a la corrupci\u00f3n no es pol\u00edtica, es social. Y discu\u2026 https://t.co/TKxOokvCrN", "truncated": true, "entities": { "hashtags": [], "symbols": [], "user_mentions": [ { "screen_name": "cendrepledeltot", "name": "Milounier \ud83c\uddea\ud83c\uddfa", "id": 907873080441262080, "id_str": "907873080441262080", "indices": [ 0, 16
+    ]
+}
+],
+"urls": [
+{
+    "url": "https://t.co/TKxOokvCrN",
+    "expanded_url": "https://twitter.com/i/web/status/1026835460587483137",
+    "display_url": "twitter.com/i/web/status/1\u2026",
+    "indices": [
+        117,
+        140
+    ]
+}
+]
+},
+"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+"in_reply_to_status_id": 1026826190483595265,
+"in_reply_to_status_id_str": "1026826190483595265",
+"in_reply_to_user_id": 907873080441262080,
+"in_reply_to_user_id_str": "907873080441262080",
+"in_reply_to_screen_name": "cendrepledeltot",
+"user": {
+"id": 15037438,
+"id_str": "15037438",
+"name": "Jaime Izquierdo",
+"screen_name": "jaime_izquierdo",
+"location": "Madrid, Espa\u00f1a",
+"description": "Consultor de presencia en redes sociales, conferenciante, formador. Creador del Modelo Competencias 2.0.",
+"url": "http://t.co/yhoOyNaN4f",
+"entities": {
+"url": {
+    "urls": [
+        {
+            "url": "http://t.co/yhoOyNaN4f",
+            "expanded_url": "http://about.me/JaimeIzquierdo",
+            "display_url": "about.me/JaimeIzquierdo",
+            "indices": [
+                0,
+                22
+            ]
+        }
+    ]
+},
+"description": {
+    "urls": []
+}
+},
+"protected": false,
+"followers_count": 4103,
+"friends_count": 3231,
+"listed_count": 370,
+"created_at": "Sat Jun 07 11:01:12 +0000 2008",
+"favourites_count": 598,
+"utc_offset": null,
+"time_zone": null,
+"geo_enabled": false,
+"verified": false,
+"statuses_count": 13683,
+"lang": null,
+"contributors_enabled": false,
+"is_translator": false,
+"is_translation_enabled": false,
+"profile_background_color": "C0DEED",
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile": false,
+"profile_image_url": "http://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1794211786/Jaime_Izquierdo_Pereira_2012-01_C_normal.jpg",
+"profile_link_color": "1DA1F2",
+"profile_sidebar_border_color": "C0DEED",
+"profile_sidebar_fill_color": "DDEEF6",
+"profile_text_color": "333333",
+"profile_use_background_image": true,
+"has_extended_profile": false,
+"default_profile": true,
+"default_profile_image": false,
+"following": false,
+"follow_request_sent": false,
+"notifications": false,
+"translator_type": "none"
+},
+"geo": null,
+"coordinates": null,
+"place": null,
+"contributors": null,
+"is_quote_status": false,
+"retweet_count": 0,
+"favorite_count": 0,
+"favorited": false,
+"retweeted": false,
+"lang": "es"
+}
