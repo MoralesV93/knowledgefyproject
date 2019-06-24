@@ -1,6 +1,9 @@
 import tweepy
 import json
+import sys
 from tweepy import OAuthHandler
+from model.tweet import Tweet
+from collections import namedtuple
  
 consumer_key = '1vsbPxMS7rPFygwfu7fmwhiL2'
 consumer_secret = 'VRDpSoma3PvraNY9eDRjJrUIkMHaIx5HN6zmT5QCCs7TctEEo4'
@@ -12,20 +15,16 @@ auth.set_access_token(access_token, access_secret)
  
 api = tweepy.API(auth)
 
+tweets = []
+
 #print(user)
 def process_or_store(tweet):
-    print(json.dumps(tweet))
+    print(json.dumps(tweet, indent=4))
 
-for tweet in api.user_timeline(15037438):
-    process_or_store(tweet._json)
-
-'''
-try:
-    tweet = api.get_status('ByronUnir')
-    print('get_tweets_single: fetching tweet for ID %s', tweet_id)
-except tweepy.TweepError as te:
-    print('get_tweets_single: failed to get tweet ID %s: %s', 15037438, te.message)
-for status in tweepy.Cursor(api.home_timeline).items(10):
-    # Process a single status
-    print(status.text)
-    '''
+for tweet in api.user_timeline(1123524671956234240):
+    p = tweet._json
+    #print(json.loads(json.dumps(p))['retweeted_status'])
+    tweets.append(json.loads(json.dumps(p)))
+    test = Tweet(json.loads(json.dumps(p)))
+    #print(test)
+process_or_store(tweets)

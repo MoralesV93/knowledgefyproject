@@ -1,0 +1,1236 @@
+[
+    {
+        "created_at": "Mon Jun 24 18:35:18 +0000 2019",
+        "id": 1143226106021064707,
+        "id_str": "1143226106021064707",
+        "text": "RT @ByronUnir: Test https://t.co/iUJjj0N0Cc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ByronUnir",
+                    "name": "ByronUnir",
+                    "id": 1123524671956234240,
+                    "id_str": "1123524671956234240",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/iUJjj0N0Cc",
+                    "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672",
+                    "display_url": "twitter.com/ByronMoraless/\u2026",
+                    "indices": [
+                        20,
+                        43
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Jun 24 16:00:55 +0000 2019",
+            "id": 1143187254447398912,
+            "id_str": "1143187254447398912",
+            "text": "Test https://t.co/iUJjj0N0Cc",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/iUJjj0N0Cc",
+                        "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672",
+                        "display_url": "twitter.com/ByronMoraless/\u2026",
+                        "indices": [
+                            5,
+                            28
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1123524671956234240,
+                "id_str": "1123524671956234240",
+                "name": "ByronUnir",
+                "screen_name": "ByronUnir",
+                "location": "",
+                "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1,
+                "friends_count": 1,
+                "listed_count": 0,
+                "created_at": "Wed May 01 09:48:50 +0000 2019",
+                "favourites_count": 2,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1066247328762396672,
+            "quoted_status_id_str": "1066247328762396672",
+            "quoted_status": {
+                "created_at": "Sat Nov 24 08:29:07 +0000 2018",
+                "id": 1066247328762396672,
+                "id_str": "1066247328762396672",
+                "text": "#LOSDEVELOPERS #COMMIT2018 https://t.co/5p5AltOXGA",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "LOSDEVELOPERS",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        },
+                        {
+                            "text": "COMMIT2018",
+                            "indices": [
+                                15,
+                                26
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1066246896895868928,
+                            "id_str": "1066246896895868928",
+                            "indices": [
+                                27,
+                                50
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                            "url": "https://t.co/5p5AltOXGA",
+                            "display_url": "pic.twitter.com/5p5AltOXGA",
+                            "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1066246896895868928,
+                            "id_str": "1066246896895868928",
+                            "indices": [
+                                27,
+                                50
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                            "url": "https://t.co/5p5AltOXGA",
+                            "display_url": "pic.twitter.com/5p5AltOXGA",
+                            "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    20,
+                                    11
+                                ],
+                                "duration_millis": 10529,
+                                "variants": [
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/vid/326x180/0c1Xzb78cJXJtAC0.mp4?tag=5"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/pl/iJos9EBFQQ4Qn0Rr.m3u8?tag=5"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/vid/640x352/Zs3TyWGPns-0qwhs.mp4?tag=5"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 817862238,
+                    "id_str": "817862238",
+                    "name": "Byron Morales V\u00e9liz",
+                    "screen_name": "ByronMoraless",
+                    "location": "Espa\u00f1a ",
+                    "description": "Estudiante informatica, C\u00e1ceres",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 148,
+                    "friends_count": 170,
+                    "listed_count": 4,
+                    "created_at": "Tue Sep 11 17:46:31 +0000 2012",
+                    "favourites_count": 171,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 2484,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/906607961283420160/aOWhJspW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906607961283420160/aOWhJspW_normal.jpg",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "und"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1066247328762396672,
+        "quoted_status_id_str": "1066247328762396672",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jun 24 16:00:55 +0000 2019",
+        "id": 1143187254447398912,
+        "id_str": "1143187254447398912",
+        "text": "Test https://t.co/iUJjj0N0Cc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iUJjj0N0Cc",
+                    "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672",
+                    "display_url": "twitter.com/ByronMoraless/\u2026",
+                    "indices": [
+                        5,
+                        28
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1066247328762396672,
+        "quoted_status_id_str": "1066247328762396672",
+        "quoted_status": {
+            "created_at": "Sat Nov 24 08:29:07 +0000 2018",
+            "id": 1066247328762396672,
+            "id_str": "1066247328762396672",
+            "text": "#LOSDEVELOPERS #COMMIT2018 https://t.co/5p5AltOXGA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LOSDEVELOPERS",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "text": "COMMIT2018",
+                        "indices": [
+                            15,
+                            26
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1066246896895868928,
+                        "id_str": "1066246896895868928",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                        "url": "https://t.co/5p5AltOXGA",
+                        "display_url": "pic.twitter.com/5p5AltOXGA",
+                        "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1066246896895868928,
+                        "id_str": "1066246896895868928",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1066246896895868928/pu/img/2Jlh99_QvsUSapyK.jpg",
+                        "url": "https://t.co/5p5AltOXGA",
+                        "display_url": "pic.twitter.com/5p5AltOXGA",
+                        "expanded_url": "https://twitter.com/ByronMoraless/status/1066247328762396672/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                20,
+                                11
+                            ],
+                            "duration_millis": 10529,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/vid/326x180/0c1Xzb78cJXJtAC0.mp4?tag=5"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/pl/iJos9EBFQQ4Qn0Rr.m3u8?tag=5"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1066246896895868928/pu/vid/640x352/Zs3TyWGPns-0qwhs.mp4?tag=5"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 817862238,
+                "id_str": "817862238",
+                "name": "Byron Morales V\u00e9liz",
+                "screen_name": "ByronMoraless",
+                "location": "Espa\u00f1a ",
+                "description": "Estudiante informatica, C\u00e1ceres",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 148,
+                "friends_count": 170,
+                "listed_count": 4,
+                "created_at": "Tue Sep 11 17:46:31 +0000 2012",
+                "favourites_count": 171,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2484,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/906607961283420160/aOWhJspW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/906607961283420160/aOWhJspW_normal.jpg",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jun 24 14:56:32 +0000 2019",
+        "id": 1143171051054125056,
+        "id_str": "1143171051054125056",
+        "text": "RT @Manz: Me voy a imprimir este tuit en la frente... Si me pagaran por cada vez que me responden una de esas cuando dices \"Javascript\"...\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Manz",
+                    "name": "J. Rom\u00e1n (Manz)",
+                    "id": 6693932,
+                    "id_str": "6693932",
+                    "indices": [
+                        3,
+                        8
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Jun 22 14:56:48 +0000 2019",
+            "id": 1142446343446769664,
+            "id_str": "1142446343446769664",
+            "text": "Me voy a imprimir este tuit en la frente... Si me pagaran por cada vez que me responden una de esas cuando dices \"J\u2026 https://t.co/KqhicyfnXb",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/KqhicyfnXb",
+                        "expanded_url": "https://twitter.com/i/web/status/1142446343446769664",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 6693932,
+                "id_str": "6693932",
+                "name": "J. Rom\u00e1n (Manz)",
+                "screen_name": "Manz",
+                "location": "Santa Cruz de Tenerife",
+                "description": "FullStack Dev/Engineer \ud83d\udcbb\u2699\ufe0f Retrogeek/Games \ud83d\udc7e Mentor/Director FullStack Tenerife @eoi \ud83c\udf93 Teacher @oslull \ud83c\udf93 Emezeta & LenguajeCSS \ud83d\udc68\u200d\ud83d\udcbb\ud83c\udf0e Odio quedarme a med",
+                "url": "https://t.co/scpdncVdLl",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/scpdncVdLl",
+                                "expanded_url": "https://www.emezeta.com/",
+                                "display_url": "emezeta.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11712,
+                "friends_count": 995,
+                "listed_count": 771,
+                "created_at": "Sat Jun 09 11:27:45 +0000 2007",
+                "favourites_count": 3124,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 21541,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1100395618411917312/QpvQ8mJz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100395618411917312/QpvQ8mJz_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/6693932/1493071119",
+                "profile_link_color": "382FD3",
+                "profile_sidebar_border_color": "549BFF",
+                "profile_sidebar_fill_color": "A3C3FF",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1142382806720339968,
+            "quoted_status_id_str": "1142382806720339968",
+            "quoted_status": {
+                "created_at": "Sat Jun 22 10:44:20 +0000 2019",
+                "id": 1142382806720339968,
+                "id_str": "1142382806720339968",
+                "text": "\ud83d\udc81\u200d\u2640\ufe0f Hi everyone, I'm learning Javascript!\n\n\ud83d\ude4b\u200d\u2642\ufe0f Learn React!\n\ud83d\ude45\u200d\u2642\ufe0f Wrong! Learn Angular!\n\ud83e\udd37\u200d\u2642\ufe0f Have you heard of our\u2026 https://t.co/MlJ1JWAJa0",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/MlJ1JWAJa0",
+                            "expanded_url": "https://twitter.com/i/web/status/1142382806720339968",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1047644343874465792,
+                    "id_str": "1047644343874465792",
+                    "name": "Katerina Borodina",
+                    "screen_name": "kathyra_",
+                    "location": "Sydney, New South Wales",
+                    "description": "Human \u2623\ufe0f. Sometimes gamedev & infosec. Come for the tech talk, stay to watch my gradual descent into insanity. @dukope wannabe",
+                    "url": "https://t.co/ruZZ4SoLSJ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/ruZZ4SoLSJ",
+                                    "expanded_url": "https://www.explainhownow.com",
+                                    "display_url": "explainhownow.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4059,
+                    "friends_count": 111,
+                    "listed_count": 45,
+                    "created_at": "Thu Oct 04 00:27:30 +0000 2018",
+                    "favourites_count": 2531,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1008,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1137526901826760704/pKpfZ9gV_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137526901826760704/pKpfZ9gV_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047644343874465792/1559978036",
+                    "profile_link_color": "BC6170",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 977,
+                "favorite_count": 6126,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 4,
+            "favorite_count": 28,
+            "favorited": true,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1142382806720339968,
+        "quoted_status_id_str": "1142382806720339968",
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "es"
+    },
+    {
+        "created_at": "Mon Jun 03 15:44:18 +0000 2019",
+        "id": 1135572926974107650,
+        "id_str": "1135572926974107650",
+        "text": "RT @PreparadorInf: Aqu\u00ed ten\u00e9is tres gu\u00edas de referencia muy \u00fatiles en formato pdf sobre HTML/CSS/Javascript\n\nChuleta HTML: https://t.co/kc3\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PreparadorInf",
+                    "name": "Preparador Inform\u00e1tica",
+                    "id": 1099817773088366592,
+                    "id_str": "1099817773088366592",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon May 27 10:47:45 +0000 2019",
+            "id": 1132961581191618561,
+            "id_str": "1132961581191618561",
+            "text": "Aqu\u00ed ten\u00e9is tres gu\u00edas de referencia muy \u00fatiles en formato pdf sobre HTML/CSS/Javascript\n\nChuleta HTML:\u2026 https://t.co/cfI4rLh6lM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/cfI4rLh6lM",
+                        "expanded_url": "https://twitter.com/i/web/status/1132961581191618561",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1099817773088366592,
+                "id_str": "1099817773088366592",
+                "name": "Preparador Inform\u00e1tica",
+                "screen_name": "PreparadorInf",
+                "location": "",
+                "description": "Preparaci\u00f3n Online de oposiciones docentes de las especialidades de Inform\u00e1tica (PES) y Sistemas y Aplicaciones Inform\u00e1ticas (PTFP)",
+                "url": "https://t.co/sI1oChfYSE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sI1oChfYSE",
+                                "expanded_url": "http://www.preparadorinformatica.com",
+                                "display_url": "preparadorinformatica.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 213,
+                "friends_count": 5,
+                "listed_count": 4,
+                "created_at": "Sun Feb 24 23:46:05 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1099818962500665344/jnv-h7VN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099818962500665344/jnv-h7VN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099817773088366592/1551745171",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "es"
+    },
+    {
+        "created_at": "Sun Jun 02 19:05:40 +0000 2019",
+        "id": 1135261217268912128,
+        "id_str": "1135261217268912128",
+        "text": "Acabo de configurar mi Twitter. #miprimerTweet",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "miprimerTweet",
+                    "indices": [
+                        32,
+                        46
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    }
+]

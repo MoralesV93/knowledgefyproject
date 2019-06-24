@@ -1,0 +1,274 @@
+[
+    {
+        "created_at": "Mon Jun 03 15:44:18 +0000 2019",
+        "id": 1135572926974107650,
+        "id_str": "1135572926974107650",
+        "text": "RT @PreparadorInf: Aqu\u00ed ten\u00e9is tres gu\u00edas de referencia muy \u00fatiles en formato pdf sobre HTML/CSS/Javascript\n\nChuleta HTML: https://t.co/kc3\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PreparadorInf",
+                    "name": "Preparador Inform\u00e1tica",
+                    "id": 1099817773088366592,
+                    "id_str": "1099817773088366592",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon May 27 10:47:45 +0000 2019",
+            "id": 1132961581191618561,
+            "id_str": "1132961581191618561",
+            "text": "Aqu\u00ed ten\u00e9is tres gu\u00edas de referencia muy \u00fatiles en formato pdf sobre HTML/CSS/Javascript\n\nChuleta HTML:\u2026 https://t.co/cfI4rLh6lM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/cfI4rLh6lM",
+                        "expanded_url": "https://twitter.com/i/web/status/1132961581191618561",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1099817773088366592,
+                "id_str": "1099817773088366592",
+                "name": "Preparador Inform\u00e1tica",
+                "screen_name": "PreparadorInf",
+                "location": "",
+                "description": "Preparaci\u00f3n Online de oposiciones docentes de las especialidades de Inform\u00e1tica (PES) y Sistemas y Aplicaciones Inform\u00e1ticas (PTFP)",
+                "url": "https://t.co/sI1oChfYSE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sI1oChfYSE",
+                                "expanded_url": "http://www.preparadorinformatica.com",
+                                "display_url": "preparadorinformatica.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 210,
+                "friends_count": 5,
+                "listed_count": 4,
+                "created_at": "Sun Feb 24 23:46:05 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 35,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1099818962500665344/jnv-h7VN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099818962500665344/jnv-h7VN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099817773088366592/1551745171",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "es"
+    },
+    {
+        "created_at": "Sun Jun 02 19:05:40 +0000 2019",
+        "id": 1135261217268912128,
+        "id_str": "1135261217268912128",
+        "text": "Acabo de configurar mi Twitter. #miprimerTweet",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "miprimerTweet",
+                    "indices": [
+                        32,
+                        46
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123524671956234240,
+            "id_str": "1123524671956234240",
+            "name": "ByronUnir",
+            "screen_name": "ByronUnir",
+            "location": "",
+            "description": "Cuenta de prueba para las pr\u00e1cticas de Unir",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Wed May 01 09:48:50 +0000 2019",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123525128023891968/YDaAc3r__normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    }
+]
