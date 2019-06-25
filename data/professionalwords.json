@@ -1,0 +1,27 @@
+[
+    {
+        "base_word":"javascript",
+        "word_matches":["js", "node", "npm"]
+    },
+    {
+        "base_word":"python",
+        "word_matches":["pip", "py" , "flask"]
+
+    },
+    {
+        "base_word":"java",
+        "word_matches":["tm", "javase" , "jvm", "jdk"]
+    },
+    {
+        "base_word":"angular",
+        "word_matches":["angularjs" , "ng", "angularcli"]
+    },
+    {
+        "base_word":"react",
+        "word_matches":["reactnative", "reactdom" , "render", "angularcli"]
+    },
+    {
+        "base_word":"typescript",
+        "word_matches":["ts","angularcli"]
+    }
+]

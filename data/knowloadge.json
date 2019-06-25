@@ -1,0 +1,15 @@
+[
+    {
+        "base_word":"javascript",
+        "word_matches":["js", "node", "npm"]
+    },
+    {
+        "base_word":"python",
+        "word_matches":["pip", "py" , "flask"]
+
+    },
+    {
+        "base_word":"java",
+        "word_matches":["tm", "javase" , "java se", "jvm", "jdk"]
+    }
+]
